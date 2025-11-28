@@ -1,18 +1,10 @@
-.humidity {
-  margin-left: 30px;
-}
-
 
 /* todayクラスに適用するスタイル */
- span {
+ today {
       background-color: #FFC0CB;
       display: inline-block;
       height: 28px;
     }
-    ```
-
-
-
 /* temperatureクラスに適用するスタイル */
 
     .temperature {
@@ -21,17 +13,15 @@
       width: 40px;
       height: 20px;
     }
-
-
 /* humidityクラスに適用するスタイル */
 
     .humidity {
+      margin-left: 30px;
       background-color: #ADD8E6;
       display: inline-block;
       width: 40px;
       height: 20px;
     }
-
 /* img要素に適用するスタイル */
 img {
       display: block;
