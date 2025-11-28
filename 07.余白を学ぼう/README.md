@@ -88,7 +88,8 @@ p {
 }
 ```
 
-![image](https://github.com/user-attachments/assets/a9fba72f-b013-4da7-96db-d2175843a6a7)
+![image](https://github.com/user-at
+tachments/assets/a9fba72f-b013-4da7-96db-d2175843a6a7)
 
 要素間の間隔や画面内での位置が変わりましたね。これは各`p`要素に`margin`プロパティが設定されたためです。
 

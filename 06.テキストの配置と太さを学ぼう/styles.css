@@ -1,3 +1,5 @@
+div {height: 50px;}
+
 /* h1要素に適用するスタイル */
 h1 {
     color: white;
@@ -8,7 +10,8 @@ h1 {
 h3 {
     color: white;
     background-color: skyblue;
-    text-align: center;}
+    text-align: center;
+    line-height: 50px;}
 
 /* p要素に適用するスタイル */
 p {
